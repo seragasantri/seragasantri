@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Project with React native and nextjs
 - 🌱 I’m currently learning Laravel, Nextjs, React Navite and Flutter
 - 💬 Ask me about Project
-- 📫 How to reach me: wa.me/0895615505598
+- 📫 How to reach me: https://wa.me/0895615505598
 
 My Portofolio :
 - https://movieapp-react-seraga.vercel.app/ (Movie App)
