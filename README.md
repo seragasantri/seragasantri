@@ -30,3 +30,4 @@ My Portofolio :
 - https://coding-web-ten.vercel.app/ (santri coding clone)
 - https://koperasi.radenfatah.ac.id/ (koperasi berita)
 - https://koperasiapp.radenfatah.ac.id/ (koperasi app)
+- https://ai-nextjs-beta.vercel.app/ (AI App)
