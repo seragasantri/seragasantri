@@ -15,6 +15,7 @@ Skill
 - Nextjs
 - Laravel
 - React Native
+- Flutter
 
 Skill Server
 - Vps (Ubuntu, Debian)
