@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 
 **Frontend:**
 - React.js
-- Nest.js
 - Next.js
 - React Native
 - Flutter
 
 **Backend:**
 - Laravel
+- Nest.Js
+- Express.Js
+- PHP Native
+- Codeigniter
 
 **Server & DevOps:**
 - VPS (Ubuntu, Debian)
