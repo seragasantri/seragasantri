@@ -1,34 +1,43 @@
 ## Hi there 👋
 
-
 **seragasantri/seragasantri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Project with React native and nextjs
-- 🌱 I’m currently learning Laravel, Nextjs, React Navite and Flutter
-- 💬 Ask me about Project
-- 📫 How to reach me: https://wa.me/62895615505598
+- 🔭 I’m currently working on projects with React Native and Next.js
+- 🌱 I’m currently learning Laravel, Next.js, React Native, and Flutter
+- 💬 Ask me about my projects
+- 📫 How to reach me: [WhatsApp](https://wa.me/62895615505598)
 
-Skill 
-- Reactjs
-- Nextjs
-- Laravel
+### Skills
+
+**Frontend:**
+- React.js
+- Next.js
 - React Native
 - Flutter
 
-Skill Server
-- Vps (Ubuntu, Debian)
-- Hosting (Cpanel, Hpanel, DirectAdmin, Cloudpanel, dn Cyber Panel)
+**Backend:**
+- Laravel
 
-Skill OS
-- MacOs
+**Server & DevOps:**
+- VPS (Ubuntu, Debian)
+- Hosting (Cpanel, Hpanel, DirectAdmin, Cloudpanel, Cyber Panel)
+- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI, CircleCI
+- **Containers & Orchestration**: Docker, Kubernetes
+- **Infrastructure Management**: Terraform, Ansible
+- **Monitoring**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Version Control**: Git, GitHub, GitLab
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+
+**Operating Systems:**
+- MacOS
 - Windows
-- Linux 
+- Linux (Ubuntu, Debian)
 
-My Portofolio :
-- https://movieapp-react-seraga.vercel.app/ (Movie App)
-- https://coding-web-ten.vercel.app/ (santri coding clone)
-- https://koperasi.radenfatah.ac.id/ (koperasi berita)
-- https://koperasiapp.radenfatah.ac.id/ (koperasi app)
-- https://ai-nextjs-beta.vercel.app/ (AI App)
+### My Portfolio:
+- [Movie App](https://movieapp-react-seraga.vercel.app/) (Movie App)
+- [Santri Coding Clone](https://coding-web-ten.vercel.app/) (Santri Coding Clone)
+- [Koperasi Berita](https://koperasi.radenfatah.ac.id/) (Koperasi Berita)
+- [Koperasi App](https://koperasiapp.radenfatah.ac.id/) (Koperasi App)
+- [AI App](https://ai-nextjs-beta.vercel.app/) (AI App)
