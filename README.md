@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 **Frontend:**
 - React.js
+- Nest.js
 - Next.js
 - React Native
 - Flutter
@@ -23,12 +24,9 @@ Here are some ideas to get you started:
 **Server & DevOps:**
 - VPS (Ubuntu, Debian)
 - Hosting (Cpanel, Hpanel, DirectAdmin, Cloudpanel, Cyber Panel)
-- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI, CircleCI
-- **Containers & Orchestration**: Docker, Kubernetes
-- **Infrastructure Management**: Terraform, Ansible
-- **Monitoring**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+- **CI/CD Tools**:  GitHub Actions
+- **Containers & Orchestration**: Docker
 - **Version Control**: Git, GitHub, GitLab
-- **Cloud Platforms**: AWS, Azure, Google Cloud
 
 **Operating Systems:**
 - MacOS
