@@ -52,4 +52,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🏆 Achievements & Trophies
-https://github-profile-trophy.vercel.app/?username=seragasantri&theme=discord&no-frame=false&no-bg=false&margin-w=4
+![](https://github-profile-trophy.vercel.app/?username=seragasantri&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
