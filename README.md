@@ -48,3 +48,8 @@ Here are some ideas to get you started:
 
 [<img src="https://github-readme-stats.vercel.app/api?username=seragasantri&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000">](https://github.com/seragasantri)
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=seragasantri&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/seragasantri)
+
+---
+
+## 🏆 Achievements & Trophies
+https://github-profile-trophy.vercel.app/?username=seragasantri&theme=discord&no-frame=false&no-bg=false&margin-w=4
