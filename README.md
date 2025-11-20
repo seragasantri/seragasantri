@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - [Koperasi App](https://koperasiapp.radenfatah.ac.id/) (Koperasi App)
 - [AI App](https://ai-nextjs-beta.vercel.app/) (AI App)
 - [FUSHPI APP](http://fushpiapp.radenfatah.ac.id/) (Fushpi App)
+- [LDA Gudang Tembakau](https://lda.waja.co.id/) (LDA Gudang Tembakau)
   
 ## 📊 GitHub Analytics
 
