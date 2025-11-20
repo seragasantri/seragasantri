@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 - [Marketplace](studentpreneur.cloud) (Studentpreneur Marketplace)
 - [Absensi](https://absen.waja.co.id/) (Absen LDA)
 - [Karaoke](https://karaoke.waja.co.id/login) (Sistem Manajemen Karaoke)
+- [Kalkulator Haji](https://calculator.nadzmazakia.com/) (Sistem Manajemen Simulasi Haji)
   
 ## 📊 GitHub Analytics
 
