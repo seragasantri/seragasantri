@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 - [FUSHPI APP](http://fushpiapp.radenfatah.ac.id/) (Fushpi App)
 - [LDA Gudang Tembakau](https://lda.waja.co.id/) (LDA Gudang Tembakau)
 - [Marketplace](studentpreneur.cloud) (Studentpreneur Marketplace)
+- [Absensi](https://absen.waja.co.id/) (Absen LDA)
+- [Karaoke](https://karaoke.waja.co.id/login) (Sistem Manajemen Karaoke)
   
 ## 📊 GitHub Analytics
 
