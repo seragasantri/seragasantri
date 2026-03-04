@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 - [Absensi](https://absen.waja.co.id/) (Absen LDA)
 - [Karaoke](https://karaoke.waja.co.id/login) (Sistem Manajemen Karaoke)
 - [Kalkulator Haji](https://calculator.nadzmazakia.com/) (Sistem Manajemen Simulasi Haji)
+- [SIMOBE](https://sim-obe.radenfatah.ac.id/) (Sistem Informasi Manajemen Kurikulum OBE)
+- [PAYROLL](https://pusakamotorutama.com/) (Sistem Manajemen Penggajian)
   
 ## 📊 GitHub Analytics
 
