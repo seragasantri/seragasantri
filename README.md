@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - [Kalkulator Haji](https://calculator.nadzmazakia.com/) (Sistem Manajemen Simulasi Haji)
 - [SIMOBE](https://sim-obe.radenfatah.ac.id/) (Sistem Informasi Manajemen Kurikulum OBE)
 - [PAYROLL](https://pusakamotorutama.com/) (Sistem Manajemen Penggajian)
+- [WEBSITE LPM] (https://lpm.radenfatah.ac.id/) (Sistem Informasi Lembaga Penjaminan Mutu)
+- [RAFAH INN] (https://inn.radenfatah.ac.id/) Sistem Informasi Guest House Raden Fatah
   
 ## 📊 GitHub Analytics
 
