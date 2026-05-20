@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 - [Karaoke](https://karaoke.waja.co.id/login) (Sistem Manajemen Karaoke)
 - [Kalkulator Haji](https://calculator.nadzmazakia.com/) (Sistem Manajemen Simulasi Haji)
 - [SIMOBE](https://sim-obe.radenfatah.ac.id/) (Sistem Informasi Manajemen Kurikulum OBE)
-- [KEUANGAN] (https://keuangan.waja.co.id/) (Sistem Informasi Keuangan)
+- [KEUANGAN](https://keuangan.waja.co.id/) (Sistem Informasi Keuangan)
 - [PAYROLL](https://pusakamotorutama.com/) (https://hondamuliacianjur.com/) (Sistem Manajemen Penggajian)
-- [WEBSITE LPM] (https://lpm.radenfatah.ac.id/) (Sistem Informasi Lembaga Penjaminan Mutu)
-- [RAFAH INN] (https://inn.radenfatah.ac.id/) Sistem Informasi Guest House Raden Fatah
+- [WEBSITE LPM](https://lpm.radenfatah.ac.id/) (Sistem Informasi Lembaga Penjaminan Mutu)
+- [RAFAH INN](https://inn.radenfatah.ac.id/) Sistem Informasi Guest House Raden Fatah
   
 ## 📊 GitHub Analytics
 
