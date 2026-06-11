@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - [PAYROLL PUSAKA MOTO](https://pusakamotorutama.com/) [PAYROLL HNDA CIANJUR](https://hondamuliacianjur.com/) (Sistem Manajemen Penggajian)
 - [WEBSITE LPM](https://lpm.radenfatah.ac.id/) (Sistem Informasi Lembaga Penjaminan Mutu)
 - [RAFAH INN](https://inn.radenfatah.ac.id/) Sistem Informasi Guest House Raden Fatah
+- [YAYASAN MOBALATANSA / SIT PROF MUHAJIRIN](yayasanmobalatansa.or.id) Website Sekolah dan yayasan SIT Prof Muhajirin
   
 ## 📊 GitHub Analytics
 
